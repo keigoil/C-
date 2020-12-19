@@ -1,0 +1,13 @@
+E:\Demo\扫雷\扫雷\bin\x64\Debug\扫雷.exe
+E:\Demo\扫雷\扫雷\bin\x64\Debug\扫雷.pdb
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MainWindow.g.cs
+E:\Demo\扫雷\扫雷\obj\x64\Debug\App.g.cs
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷_MarkupCompile.cache
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷_MarkupCompile.lref
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MainWindow.baml
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.g.resources
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.Properties.Resources.resources
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.csproj.GenerateResource.Cache
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.exe
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.pdb
+E:\Demo\扫雷\扫雷\obj\x64\Debug\扫雷.csprojResolveAssemblyReference.cache

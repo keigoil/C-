@@ -1,0 +1,15 @@
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.csprojResolveAssemblyReference.cache
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MainWindow.g.cs
+E:\Demo\扫雷\扫雷\obj\x64\Debug\App.g.cs
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MainWindow.baml
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.csproj.GenerateResource.Cache
+E:\Demo\扫雷\扫雷\bin\x64\Debug\MineClearance.exe
+E:\Demo\扫雷\扫雷\bin\x64\Debug\MineClearance.pdb
+E:\Demo\扫雷\扫雷\obj\x64\Debug\DifficultySelectionPopup.g.cs
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance_MarkupCompile.cache
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance_MarkupCompile.lref
+E:\Demo\扫雷\扫雷\obj\x64\Debug\DifficultySelectionPopup.baml
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.g.resources
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.Properties.Resources.resources
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.exe
+E:\Demo\扫雷\扫雷\obj\x64\Debug\MineClearance.pdb

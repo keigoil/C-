@@ -1,0 +1,35 @@
+﻿<Window x:Class="MineClearance.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MineClearance"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="MainWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <WrapPanel>
+            <Button Height="25"
+                    Width="70"
+                    x:Name="SettingBtn" Click="SettingBtn_Click">难度选择</Button>
+            <Button Height="25"
+                    Width="60"
+                    x:Name="HelpBtn"
+                    Click="HelpBtn_Click">帮助</Button>
+            <Button Height="25"
+                    x:Name="FaceBtn"
+                    Click="FaceBtn_Click"
+                    Width="25">笑脸</Button>
+            <Label>剩余地雷：</Label>
+            <Label x:Name="remainderLabel"
+                   Content="{Binding Remainder}"></Label>
+        </WrapPanel>
+        <Grid x:Name="GameBG"
+              Grid.Row="1"></Grid>
+    </Grid>
+</Window>

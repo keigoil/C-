@@ -1,0 +1,5 @@
+E:\Demo\扫雷\TestRandomness\bin\Debug\TestRandomness.exe
+E:\Demo\扫雷\TestRandomness\bin\Debug\TestRandomness.pdb
+E:\Demo\扫雷\TestRandomness\obj\Debug\TestRandomness.csprojResolveAssemblyReference.cache
+E:\Demo\扫雷\TestRandomness\obj\Debug\TestRandomness.exe
+E:\Demo\扫雷\TestRandomness\obj\Debug\TestRandomness.pdb
